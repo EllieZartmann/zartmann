@@ -18,7 +18,7 @@ export default function About() {
         Ich bin Entwickler aus Leidenschaft und habe in meinem Hobby meine Berufung gefunden. 
         Besonders die Frontend-Entwicklung hat mich von Anfang an gefesselt, 
         wobei ich mir zusätzlich fundierte Kenntnisse im Backend und im Bereich Data Science erarbeitet habe.
-<br /> <br />
+        <br /> <br />
         Ich lerne gerne und kontinuierlich dazu und sehe neue Herausforderungen als Chance, 
         mich fachlich wie persönlich weiterzuentwickeln. Besonders zeichnet mich meine schnelle 
         Auffassungsgabe aus, die es mir ermöglicht, mich effizient in neue Themen 

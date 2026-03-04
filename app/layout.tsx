@@ -20,11 +20,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={genos.variable}>
-      <body>
-        {/* Fixed Navbar */}
+      <body style={{ fontFamily: "var(--font-genos)" }}>
+
         <nav
           className="fixed top-0 left-0 w-full shadow-md border-b z-50 p-4 flex justify-center gap-6  
-        text-gray-800 font-sans
+        text-gray-800 font-sans text-xl
         dark:bg-gray-200
         bg-white
         bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)]
