@@ -4,15 +4,16 @@ export default function About() {
   return (
     <section
       style={{ fontFamily: "var(--font-genos)" }}
-      className="w-full min-h-screen flex-col items-center justify-center gap-5 text-gray-800 font-sans
+      className="w-full min-h-screen flex-col items-center justify-center gap-5 
+        text-gray-800 font-sans
         dark:bg-gray-200
         bg-white
         bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)]
-        bg-[size:24px_24px]"
+        bg-size-[24px_24px]"
     >
-      <h1 className="pt-20 mb-5 text-6xl font-bold">About</h1>
+        <h1 className="pt-20 mb-5 ml-50 text-6xl font-bold ">About</h1>
       <div className="h-auto w-full flex gap-5">
-        <p className=" text-xl w-full">
+        <p className=" text-xl w-full ml-50">
           Ich verstehe mich darauf, komplexe Strukturen zu erkennen und Probleme
           geordnet und kontrolliert zu beheben. Mit meinem Wissen bin ich in der
           Lage, oder habe gar das Privileg, meinen Beitrag zum Fortschritt zu
@@ -42,6 +43,7 @@ export default function About() {
           />
         </div>
       </div>
+      
     </section>
   );
 }

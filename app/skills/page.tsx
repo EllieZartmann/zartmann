@@ -20,10 +20,10 @@ export default function Skills() {
         dark:bg-gray-200
         bg-white
         bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)]
-        bg-[size:24px_24px]"
+        bg-size-[24px_24px]"
     >
-      <h1 className="pt-20 mb-5 text-6xl font-bold">Skills</h1>
-      <div className="flex flex-wrap gap-5 justify-center px-30 mx-20 mt-20 py-20 border-2 rounded-xl ">
+      <h1 className="pt-20 mb-5 ml-50 text-6xl font-bold">Skills</h1>
+      <div className="flex flex-wrap gap-5 justify-center px-30 mt-20 py-20 mx-50 border-2 rounded-xl ">
         {skills.map((skill, index) => (
           <div
             key={index}
