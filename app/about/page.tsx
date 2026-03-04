@@ -13,9 +13,10 @@ export default function About() {
     >
         <h1 className="pt-20 mb-5 ml-50 text-6xl font-bold ">About</h1>
       <div className="h-auto w-full flex gap-5">
-        <p className=" text-xl w-full ml-50">
+        <p className=" text-2xl w-full ml-50">
           
-        Ich bin Entwickler aus Leidenschaft und habe in meinem Hobby meine Berufung gefunden. 
+        Was als neugieriges Ausprobieren begann, hat sich für mich schnell zu 
+        einem klaren beruflichen Fokus entwickelt: die Softwareentwicklung. 
         Besonders die Frontend-Entwicklung hat mich von Anfang an gefesselt, 
         wobei ich mir zusätzlich fundierte Kenntnisse im Backend und im Bereich Data Science erarbeitet habe.
         <br /> <br />
