@@ -35,7 +35,7 @@ export default function Skills() {
               width={skill.width}
               height={skill.height}
             />
-            <span className="mt-2 text-black font-semibold">{skill.name}</span>
+            <span className="mt-2 text-black text-xl font-semibold">{skill.name}</span>
           </div>
         ))}
         </div>

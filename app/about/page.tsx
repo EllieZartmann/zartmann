@@ -14,24 +14,20 @@ export default function About() {
         <h1 className="pt-20 mb-5 ml-50 text-6xl font-bold ">About</h1>
       <div className="h-auto w-full flex gap-5">
         <p className=" text-xl w-full ml-50">
-          Ich verstehe mich darauf, komplexe Strukturen zu erkennen und Probleme
-          geordnet und kontrolliert zu beheben. Mit meinem Wissen bin ich in der
-          Lage, oder habe gar das Privileg, meinen Beitrag zum Fortschritt zu
-          leisten. <br /> <br />
-          blabla blablablabla blabla blabla blablablabla blabla blabla
-          blablablabla blabla blabla blablablabla blabla blabla blablablabla
-          blabla blabla blablablabla blabla blabla blablablabla blabla blabla
-          blablablabla blabla blabla blablablabla blabla blabla blablablabla
-          blabla blabla blablablabla blabla blabla blablablabla blabla blabla
-          blablablabla blabla blabla blablablabla blabla blabla blablablabla
-          blabla blabla blablablabla blabla<br /> <br />
-          blabla blablablabla blabla blabla blablablabla blabla blabla
-          blablablabla blabla blabla blablablabla blabla blabla blablablabla
-          blabla blabla blablablabla blabla blabla blablablabla blabla blabla
-          blablablabla blabla blabla blablablabla blabla blabla blablablabla
-          blabla blabla blablablabla blabla blabla blablablabla blabla blabla
-          blablablabla blabla blabla blablablabla blabla blabla blablablabla
-          blabla blabla blablablabla blabla
+          
+        Ich bin Entwickler aus Leidenschaft und habe in meinem Hobby meine Berufung gefunden. 
+        Besonders die Frontend-Entwicklung hat mich von Anfang an gefesselt, 
+        wobei ich mir zusätzlich fundierte Kenntnisse im Backend und im Bereich Data Science erarbeitet habe.
+<br /> <br />
+        Ich lerne gerne und kontinuierlich dazu und sehe neue Herausforderungen als Chance, 
+        mich fachlich wie persönlich weiterzuentwickeln. Besonders zeichnet mich meine schnelle 
+        Auffassungsgabe aus, die es mir ermöglicht, mich effizient in neue Themen 
+        einzuarbeiten und zielgerichtete Lösungen zu entwickeln.<br /> <br />
+
+        Zudem verstehe ich mich darauf, komplexe Strukturen schnell zu durchdringen 
+        und Probleme strukturiert, kontrolliert und nachhaltig zu beheben. 
+        Mit meinem Wissen und meiner Motivation möchte ich aktiv dazu beitragen, 
+        digitale Lösungen sinnvoll voranzubringen und echten Mehrwert zu schaffen. 
         </p>
         <div className="h-full w-full flex flex-col items-center justify-center">
           <Image
